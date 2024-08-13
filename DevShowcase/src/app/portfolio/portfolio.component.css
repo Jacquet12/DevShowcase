@@ -39,6 +39,39 @@ body {
     margin-top: 50px;
 }
 
+.site-basic-info {
+    background-color: #222;
+    padding: 20px;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+.vertical-bar {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background-color: white;
+    margin-right: 20px;
+}
+
+.about-me-text {
+    position: relative;
+    max-width: 50%;
+    padding-left: 20px; 
+    border-left: 4px solid white; 
+}
+
+.about-me-text p {
+    margin: 0;
+    line-height: 1.5;
+    text-align: left;
+    white-space: pre-line;
+}
+
 .text-content {
     text-align: center;
 }
